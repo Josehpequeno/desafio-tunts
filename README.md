@@ -3,7 +3,7 @@
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Josehpequeno/desafio-tunts.git
+$ gh repo clone Josehpequeno/desafio-tunts
 
 # Access the project folder in the cmd / terminal
 $ cd desafio-tunts
